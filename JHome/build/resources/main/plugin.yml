@@ -1,0 +1,5 @@
+name: JHome
+version: 1.0.0
+main: fr.joupi.jhome.JHome
+authors: [ Joupi ]
+description: Home plugin

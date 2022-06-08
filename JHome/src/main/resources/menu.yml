@@ -1,0 +1,34 @@
+################################################################
+# +----------------------------------------------------------+ #
+# |                       JHome Gui                          | #
+# +----------------------------------------------------------+ #
+################################################################
+#
+# Made by Joupi
+# Discord: Joupi#5567
+
+################################
+#           Home Menu          #
+################################
+
+home-gui-title: "&6Homes"
+home-gui-row: 3
+home-gui-start-home-slot: 10
+home-gui-end-home-slot: 16
+
+items:
+  previousPage:
+    title: "&ePage précédente"
+    material: ARROW
+    slot: 21
+  nextPage:
+    title: "&ePage suivante"
+    material: ARROW
+    slot: 23
+  borders:
+    title: ""
+    material:
+
+################################
+#        Home Edit Menu        #
+################################

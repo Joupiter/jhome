@@ -1,0 +1,26 @@
+################################################################
+# +----------------------------------------------------------+ #
+# |                   JHome Configuration                    | #
+# +----------------------------------------------------------+ #
+################################################################
+#
+# Made by Joupi
+# Discord: Joupi#5567
+
+################################
+#           Settings           #
+################################
+
+# In seconds
+teleport-delay: 5
+teleport-cooldown: 5
+
+################################
+#           Messages           #
+################################
+
+teleport-cancel-message: "&cTeleportation cancelled!"
+# You can use %homeName% for show the home's name
+teleport-start-message: "&aTeleportation to %homeName%"
+# You can use %cooldown%
+teleport-actionbar-message: "&6Teleportation in &e%cooldown% &6seconds"
